@@ -1,0 +1,2 @@
+# Netflix-Movies-and-TV-Shows-Clustering-using-Unsupervised-Learning
+This project applies unsupervised learning techniques to group Netflix content (movies and TV shows) into clusters based on their attributes like genre, type, country, duration, and rating. Using KMeans clustering and PCA for dimensionality reduction, we visualize how similar content can be grouped together to aid in recommendations and content .
